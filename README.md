@@ -4,7 +4,8 @@ Install the requirements there
 Now Run `python src\pipeline\train_pipeline.py`
 After Success full run, `logs` and `artifacts` folder will be created
 
-artifacts
+`
+artifacts 
     |
     | --DataIngestionArtifacts
     |           |
@@ -24,7 +25,7 @@ artifacts
     |           |
     |           | --metrics.json
     -------------------------------
+`
 
 
-    
 Prediction Pipeline will design Later 
